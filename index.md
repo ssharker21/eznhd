@@ -28,6 +28,7 @@ li a {
   <li><a href="forum">💬 Forums</a></li>
   <li><a href="submit.html">Submit Your Own</a></li>
   <li><a href="recommended.html">Recommended Topics</a></li>
+  <li><a href="documentarywinners.html">Documentary Examples</a></li>
 </ul>
 </center>
 <div><script>
