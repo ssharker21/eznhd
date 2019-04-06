@@ -22,7 +22,6 @@ li a {
   <li><a href="https://www.tapatalk.com/groups/eznhd/">💬 Forums</a></li>
 </ul>
 
-<h2> Chinese One Child Policy </h2>
 
 <html>
 <head>
