@@ -117,7 +117,7 @@ window.onclick = function(event) {
    <a href="https://www.google.com/&httpsredir=1&article=1332&context=ur-87-68">BIS</a>
    <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.31158011173738;view=1up;seq=5">ECA</a>
     <a href="https://catalog.archives.gov/id/201118">National Archives</a>
-    <a href="avalon.law.yale.edu/20th_century/decade24.asp">Yale Law School</a>
+    <a href="https://avalon.law.yale.edu/20th_century/decade24.asp">Yale Law School</a>
   </div>
 </div>
 
@@ -184,11 +184,14 @@ window.onclick = function(event) {
 <div class="dropdown">
   <button onclick="myFunction3()" class="dropbtn">Six day War</button>
   <div id="myDropdown4" class="dropdown-content">
-    <a href="https://www.cia.gov/library/readingroom/docs/1948-04-03b.pdf">CIA</a>
-   <a href="https://www.google.com/&httpsredir=1&article=1332&context=ur-87-68">BIS</a>
-   <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.31158011173738;view=1up;seq=5">ECA</a>
-    <a href="https://catalog.archives.gov/id/201118">National Archives</a>
-    <a href="avalon.law.yale.edu/20th_century/decade24.asp">Yale Law School</a>
+   <a href="https://english.palinfo.com/articles/2017/6/6/can-the-1967-war-offer-opportunity-for-peace">The Palestinian Info Center</a>
+
+<a href="https://archive.org/details/DTIC_ADA307410/page/n5">DTIC</a>
+
+<a href="https://www.nytimes.com/1982/11/28/world/go-between-says-nasser-sought-israeli-pact.html">New York Times</a>
+
+<a href="https://archive.org/details/scm-106114-charlessmithhistoryofaconflic">Charles Smith</a>
+
   </div>
 </div>
 
