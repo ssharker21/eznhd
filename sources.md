@@ -114,7 +114,6 @@ window.onclick = function(event) {
   <button onclick="myFunction1()" class="dropbtn">Marshall Plan</button>
   <div id="myDropdown2" class="dropdown-content">
     <a href="https://www.cia.gov/library/readingroom/docs/1948-04-03b.pdf">CIA</a>
-   <a href="https://www.google.com/&httpsredir=1&article=1332&context=ur-87-68">BIS</a>
    <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.31158011173738;view=1up;seq=5">ECA</a>
     <a href="https://catalog.archives.gov/id/201118">National Archives</a>
     <a href="https://avalon.law.yale.edu/20th_century/decade24.asp">Yale Law School</a>
@@ -226,7 +225,7 @@ window.onclick = function(event) {
 
 <a href="https://www.fdrlibrary.marist.edu/archives/collections/franklin/index.php?p=collections/findingaid&id=582">FDR Library</a>
 
-<a href="https://fraser.stlouisfed.org/files/docs/historical/congressional/1946sen_epcsa_v2.pdf>Fraser Institute</a>
+<a href="https://fraser.stlouisfed.org/files/docs/historical/congressional/1946sen_epcsa_v2.pdf">Fraser Institute</a>
 <a href="https://digital.wustl.edu/greatdepression/browse.html">Washington University</a>
 
 <a href="www.loc.gov/item/wpalh000337">LOC</a>
