@@ -1,4 +1,4 @@
-# Welcome to NHD Help
+<h1><center>Welcome to NHD Help</center></h1>
 <html>
 <head>
 <style>
