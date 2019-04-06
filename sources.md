@@ -72,8 +72,8 @@ li a {
 <div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Chinese One Child Policy</button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
+    <a href="https://data.worldbank.org/indicator/SP.POP.DPND.OL">World Bank</a>
+    <a href="www.cia.gov/library/publications/the-world-factbook/fields/2256.html">cia</a>
     <a href="#contact">Contact</a>
   </div>
 </div>
