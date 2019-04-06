@@ -26,6 +26,7 @@ li a {
   <li><a href="sources">Sources</a></li>
   <li><a href="forum">💬 Forums</a></li>
   <li><a href="submit.html">Submit Your Own</a></li>
+  <li><a href="recommended.html">Recommended Topics</a></li>
 </ul>
 
 <div><script>
