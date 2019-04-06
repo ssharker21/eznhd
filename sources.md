@@ -18,8 +18,6 @@ li a {
   padding: 8px;
 }
 </style>
-</head>
-<body>
 
 <ul>
   <li><a href="https://ssharker21.github.io/eznhd/">Menu</a></li>
