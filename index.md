@@ -23,7 +23,7 @@ li a {
 <body>
 
 <ul>
-  <li><a href="Sources">Sources</a></li>
+  <li><a href="sources">Sources</a></li>
   <li><a href="Forum">💬 Forums</a></li>
   <li><a href="submit.html">Submit Your Own</a></li>
 </ul>
