@@ -1,2 +1,2 @@
 # eznhd
-This project is to help people with nhd
+This project is to help people with NHD
