@@ -159,7 +159,7 @@ window.onclick = function(event) {
 
 <script>
 function myFunction2() {
-  document.getElementById("myDropdown2").classList.toggle("show");
+  document.getElementById("myDropdown3").classList.toggle("show");
 }
 
 window.onclick = function(event) {
@@ -198,7 +198,7 @@ window.onclick = function(event) {
 
 <script>
 function myFunction3() {
-  document.getElementById("myDropdown2").classList.toggle("show");
+  document.getElementById("myDropdown4").classList.toggle("show");
 }
 
 window.onclick = function(event) {
@@ -236,7 +236,7 @@ window.onclick = function(event) {
 
 <script>
 function myFunction4() {
-  document.getElementById("myDropdown2").classList.toggle("show");
+  document.getElementById("myDropdown5").classList.toggle("show");
 }
 
 window.onclick = function(event) {
