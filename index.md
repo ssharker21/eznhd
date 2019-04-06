@@ -24,7 +24,7 @@ li a {
 
 <ul>
   <li><a href="sources">Sources</a></li>
-  <li><a href="https://www.tapatalk.com/groups/eznhd/">💬 Forums</a></li>
+  <li><a href="forum">💬 Forums</a></li>
 </ul>
 
 <div><script>
