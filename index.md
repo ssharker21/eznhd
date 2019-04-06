@@ -1,6 +1,4 @@
 <h1><center>Welcome to NHD Help</center></h1>
-<html>
-<head>
 <style>
 ul {
   list-style-type: none;
@@ -19,8 +17,6 @@ li a {
   padding: 8px;
 }
 </style>
-</head>
-<body>
 
 <center>
 <ul>
