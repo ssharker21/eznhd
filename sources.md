@@ -20,7 +20,7 @@ li a {
 <ul>
   <li><a href="https://ssharker21.github.io/eznhd/">Menu</a></li>
   <li><a href="https://www.tapatalk.com/groups/eznhd/">💬 Forums</a></li>
-  <li><a href="https://ssharker21.github.io/eznhd/submit.html">Sumbit Your Own </a></li>
+  <li><a href="https://ssharker21.github.io/eznhd/submit.html">Submit Your Own </a></li>
   <li><a href="https://ssharker21.github.io/eznhd/recommended.html">Recommended Topics</a></li>
 </ul>
 
