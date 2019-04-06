@@ -146,13 +146,13 @@ window.onclick = function(event) {
 
 
 <div class="dropdown">
-  <button onclick="myFunction2()" class="dropbtn">Marshall Plan</button>
+  <button onclick="myFunction2()" class="dropbtn">Philippine-American War</button>
   <div id="myDropdown3" class="dropdown-content">
-    <a href="https://www.cia.gov/library/readingroom/docs/1948-04-03b.pdf">CIA</a>
-   <a href="https://www.google.com/&httpsredir=1&article=1332&context=ur-87-68">BIS</a>
-   <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.31158011173738;view=1up;seq=5">ECA</a>
-    <a href="https://catalog.archives.gov/id/201118">National Archives</a>
-    <a href="avalon.law.yale.edu/20th_century/decade24.asp">Yale Law School</a>
+    <a href="https://www.msc.edu.ph/centennial/benevolent.html">MSC</a>
+   <a href="https://www.doi.gov/oia/about/treaty1898">DOI</a>
+   <a href="https://en.wikisource.org/wiki/Letter_from_E.S._Otis_to_the_inhabitants_of_the_Philippine_Islands,_January_4,_1899">WikiSource</a>
+    <a href="https://historymatters.gmu.edu/d/5575/">History Matters</a>
+    <a href="https://conservancy.umn.edu/bitstream/handle/11299/162537/Holm,Elizabeth_MLS_Thesis.pdf?sequence=1&isAllowed=y">Conservancy</a>
   </div>
 </div>
 
@@ -182,7 +182,7 @@ window.onclick = function(event) {
 
 
 <div class="dropdown">
-  <button onclick="myFunction3()" class="dropbtn">Marshall Plan</button>
+  <button onclick="myFunction3()" class="dropbtn">Six day War</button>
   <div id="myDropdown4" class="dropdown-content">
     <a href="https://www.cia.gov/library/readingroom/docs/1948-04-03b.pdf">CIA</a>
    <a href="https://www.google.com/&httpsredir=1&article=1332&context=ur-87-68">BIS</a>
