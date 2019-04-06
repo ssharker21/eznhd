@@ -22,15 +22,14 @@ li a {
 </head>
 <body>
 
+<center>
 <ul>
-  <center>
   <li><a href="sources">Sources</a></li>
   <li><a href="forum">💬 Forums</a></li>
   <li><a href="submit.html">Submit Your Own</a></li>
   <li><a href="recommended.html">Recommended Topics</a></li>
-    </center>
 </ul>
-
+</center>
 <div><script>
   (function() {
     var cx = '003526125467365392845:iut5hvdskdg';
