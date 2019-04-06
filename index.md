@@ -1,4 +1,5 @@
-<h1><center>Welcome to NHD Help</center></h1>
+<h1><center>Welcome to National History Day Help!</center></h1>
+<h2>The best source for all of your History Day needs.</h2>
 <style>
 ul {
   list-style-type: none;
