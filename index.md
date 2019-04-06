@@ -32,6 +32,9 @@ li a {
 </center>
 
 ###### Click on *Sources* for primary sources on a variety of NHD topics.
+
 ###### Click on *Forum* to discuss or request help about your topic.
+
 ###### Click on *Submit Your Own* to submit your primary sources to us, so we can help others.
+
 ###### Click on *Recommended Topics* to view many great NHD topics.
