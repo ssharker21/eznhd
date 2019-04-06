@@ -24,7 +24,7 @@ li a {
 
 <ul>
   <li><a href="#Sources">Sources</a></li>
-  <li><a href="#Forums">Forums</a></li>
+  <li><a href="https://www.tapatalk.com/groups/eznhd/">💬 Forums</a></li>
 </ul>
 
 <div><script>
@@ -39,4 +39,3 @@ li a {
   })();
 </script>
 <gcse:search></gcse:search></div>
-## [💬 See the forum](https://www.tapatalk.com/groups/eznhd/)
