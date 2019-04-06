@@ -116,12 +116,8 @@ window.onclick = function(event) {
     <a href="https://www.cia.gov/library/readingroom/docs/1948-04-03b.pdf">CIA</a>
    <a href="https://www.google.com/&httpsredir=1&article=1332&context=ur-87-68">BIS</a>
    <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.31158011173738;view=1up;seq=5">ECA</a>
-    <a href="https://ohrh.law.ox.ac.uk/the-two-child-policy-an-assault-on-human-rights/">OHRH</a>
-    <a href="https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?locations=CN">WorldBank</a>
-    <a href="https://www.channelnewsasia.com/news/commentary/china-ending-one-child-policy-ageing-population-bachelors-10274528">ChannelNewsAsia</a>
-    <a href="https://www.aljazeera.com/indepth/features/2017/01/child-policy-affected-china-170129130503972.html">Aljazeera</a>
-    <a href="https://www.npr.org/2016/02/01/465124337/how-chinas-one-child-policy-led-to-forced-abortions-30-million-bachelors">NPR</a>
-    <a href="https://https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657744/">NCBI</a>
+    <a href="https://catalog.archives.gov/id/201118">National Archives</a>
+    <a href="avalon.law.yale.edu/20th_century/decade24.asp">Yale Law School</a>
   </div>
 </div>
 
