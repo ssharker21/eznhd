@@ -1,5 +1,32 @@
 ## Chinese One Child Policy
 
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #dddddd;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="https://ssharker21.github.io/eznhd/">Menu</a></li>
+  <li><a href="https://www.tapatalk.com/groups/eznhd/">💬 Forums</a></li>
+</ul>
+
+
 “Age Dependency Ratio, Old (% of Working-Age Population).” Age Dependency Ratio, Old (% of Working-Age Population) | Data, data.worldbank.org/indicator/SP.POP.DPND.OL. 
 
 Central Intelligence Agency, Central Intelligence Agency, www.cia.gov/library/publications/the-world-factbook/fields/2256.html.“China-Fails-to-Evade-Questions-on-Human-Rights-Violations-in-Tibet-Feb-10-2009-1pp.” Human Rights Documents Online, 14 Dec. 2004, doi:10.1163/2210-7975_hrd-0144-0022.
