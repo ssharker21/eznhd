@@ -23,8 +23,8 @@ li a {
 <body>
 
 <ul>
-  <li><a href="#Sources">Home</a></li>
-  <li><a href="#Forums">News</a></li>
+  <li><a href="#Sources">Sources</a></li>
+  <li><a href="#Forums">Forums</a></li>
 </ul>
 
 <div><script>
