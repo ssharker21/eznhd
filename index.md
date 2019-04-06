@@ -23,10 +23,12 @@ li a {
 <body>
 
 <ul>
+  <center>
   <li><a href="sources">Sources</a></li>
   <li><a href="forum">💬 Forums</a></li>
   <li><a href="submit.html">Submit Your Own</a></li>
   <li><a href="recommended.html">Recommended Topics</a></li>
+    </center>
 </ul>
 
 <div><script>
