@@ -24,28 +24,82 @@ li a {
 
 <h2> Chinese One Child Policy </h2>
 
-“Age Dependency Ratio, Old (% of Working-Age Population).” Age Dependency Ratio, Old (% of Working-Age Population) | Data, data.worldbank.org/indicator/SP.POP.DPND.OL. 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
 
-Central Intelligence Agency, Central Intelligence Agency, www.cia.gov/library/publications/the-world-factbook/fields/2256.html.“China-Fails-to-Evade-Questions-on-Human-Rights-Violations-in-Tibet-Feb-10-2009-1pp.” Human Rights Documents Online, 14 Dec. 2004, doi:10.1163/2210-7975_hrd-0144-0022.
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
 
-“China: Average Household Size 2017 | Statistic.” Statista,  www.statista.com/statistics/278697/average-size-of-households-in-china/.
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
 
-“China's Two-Child Policy: An Assault on Human Rights.” OHRH, 19 Jan. 2016, ohrh.law.ox.ac.uk/the-two-child-policy-an-assault-on-human-rights/.
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
 
-“Fertility Rate, Total (Births per Woman).” Literacy Rate, Adult Female (% of Females Ages 15 and above) | Data, data.worldbank.org/indicator/SP.DYN.TFRT.IN?locations=CN.
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
 
-Fong, Mei. “Commentary: Will China Finally End Its One-Child Policy?” Channel NewsAsia, 26 May 2018, www.channelnewsasia.com/news/commentary/china-ending-one-child-policy-ageing-population-bachelors-10274528.
+.dropdown a:hover {background-color: #ddd;}
 
-Hall, Casey. “How Has the End of Its One-Child Policy Affected China?” Asia | Al Jazeera, Al Jazeera, 2 Feb. 2017, www.aljazeera.com/indepth/features/2017/01/child-policy-affected-china-170129130503972.html.
+.show {display: block;}
+</style>
+</head>
+<body>
 
-“How China's One-Child Policy Led To Forced Abortions, 30 Million Bachelors.” NPR, NPR, 1 Feb. 2016, www.npr.org/2016/02/01/465124337/how-chinas-one-child-policy-led-to-forced-abortions-30-million-bachelors.
+<div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</div>
 
-“'I Could Hear the Baby Cry. They Killed My Baby ... Yet I Couldn't Do a Thing': The Countless Tragedies of China's One-Child Policy.” South China Morning Post, 4 Aug. 2016, 
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
 
-Jiang, Quanbao. Li, Shuzhou. Feldman, Marcus W. China's Population Policy  at the Crossroads: Social Impacts and Prospects. Asian J Soc Sci, 2015 Nov 24. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657744/.
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
 
-“The End of China's One-Child Policy? An Interview with Mei Fong.” Dissent Magazine,  www.dissentmagazine.org/online_articles/the-end-of-chinas-one-child-policy-an-interview-with-mei-fong.
-
-“Well-Being of Caregivers to Older Adults in China.” Love on the Cloud: The Rise of  Online Dating in China | US-China Institute, 28 Nov. 2010, china.usc.edu/well-being-caregivers-older-adults-china.
-
-Zhou, Christina. “A Look inside the Struggles and Benefits of China's 'Little Emperor'  Generation.” ABC News, Australian Broadcasting Corporation, 3 Feb. 2018,  www.abc.net.au/news/2018-02-03/the-struggles-and-benefits-of-chinas-little-emperor-generation/9323300.
+</body>
+</html>
