@@ -220,7 +220,7 @@ window.onclick = function(event) {
 
 
 <div class="dropdown">
-  <button onclick="myFunction4()" class="dropbtn">Marshall Plan</button>
+  <button onclick="myFunction4()" class="dropbtn">New Deal</button>
   <div id="myDropdown5" class="dropdown-content">
 <a href="https://search.proquest.com/docview/124373044?accountid=6126">Banker’s Magazine</a>
 
