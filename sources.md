@@ -111,8 +111,8 @@ window.onclick = function(event) {
 
 
 <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Chinese One Child Policy</button>
-  <div id="myDropdown" class="dropdown-content">
+  <button onclick="myFunction1()" class="dropbtn">Chinese One Child Policy</button>
+  <div id="myDropdown2" class="dropdown-content">
     <a href="https://data.worldbank.org/indicator/SP.POP.DPND.OL">World Bank</a>
     <a href="https://www.cia.gov/library/publications/the-world-factbook/fields/2256.html">cia</a>
     <a href="https://www.statista.com/statistics/278697/average-size-of-households-in-china/">Statisa</a>
@@ -127,8 +127,8 @@ window.onclick = function(event) {
 
 
 <script>
-function myFunction() {
-  document.getElementById("myDropdown").classList.toggle("show");
+function myFunction1() {
+  document.getElementById("myDropdown2").classList.toggle("show");
 }
 
 window.onclick = function(event) {
