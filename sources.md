@@ -106,8 +106,8 @@ window.onclick = function(event) {
   }
 }
 </script>
+<br>
 
-<body>
 
 <div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Chinese One Child Policy</button>
@@ -123,6 +123,7 @@ window.onclick = function(event) {
     <a href="https://https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657744/">NCBI</a>
   </div>
 </div>
+
 
 <script>
 function myFunction() {
@@ -143,5 +144,5 @@ window.onclick = function(event) {
 }
 </script>
 
-</body>
-</html>
+
+
