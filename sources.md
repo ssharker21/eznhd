@@ -22,7 +22,7 @@ li a {
   <li><a href="https://www.tapatalk.com/groups/eznhd/">💬 Forums</a></li>
 </ul>
 
-## Chinese One Child Policy
+<h2> Chinese One Child Policy </h2>
 
 “Age Dependency Ratio, Old (% of Working-Age Population).” Age Dependency Ratio, Old (% of Working-Age Population) | Data, data.worldbank.org/indicator/SP.POP.DPND.OL. 
 
