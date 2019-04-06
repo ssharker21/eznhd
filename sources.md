@@ -177,3 +177,72 @@ window.onclick = function(event) {
 </script>
 
 
+<br>
+<br>
+
+
+<div class="dropdown">
+  <button onclick="myFunction3()" class="dropbtn">Marshall Plan</button>
+  <div id="myDropdown4" class="dropdown-content">
+    <a href="https://www.cia.gov/library/readingroom/docs/1948-04-03b.pdf">CIA</a>
+   <a href="https://www.google.com/&httpsredir=1&article=1332&context=ur-87-68">BIS</a>
+   <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.31158011173738;view=1up;seq=5">ECA</a>
+    <a href="https://catalog.archives.gov/id/201118">National Archives</a>
+    <a href="avalon.law.yale.edu/20th_century/decade24.asp">Yale Law School</a>
+  </div>
+</div>
+
+
+<script>
+function myFunction3() {
+  document.getElementById("myDropdown2").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+<br>
+<br>
+
+
+<div class="dropdown">
+  <button onclick="myFunction4()" class="dropbtn">Marshall Plan</button>
+  <div id="myDropdown5" class="dropdown-content">
+    <a href="https://www.cia.gov/library/readingroom/docs/1948-04-03b.pdf">CIA</a>
+   <a href="https://www.google.com/&httpsredir=1&article=1332&context=ur-87-68">BIS</a>
+   <a href="https://babel.hathitrust.org/cgi/pt?id=uc1.31158011173738;view=1up;seq=5">ECA</a>
+    <a href="https://catalog.archives.gov/id/201118">National Archives</a>
+    <a href="avalon.law.yale.edu/20th_century/decade24.asp">Yale Law School</a>
+  </div>
+</div>
+
+
+<script>
+function myFunction4() {
+  document.getElementById("myDropdown2").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
