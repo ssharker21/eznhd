@@ -1,2 +1,2 @@
 # eznhd
-This project is to help people with NHD
+This site is to help students find resources for the National History Day Competition
